@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18"
+   height="18"
+   viewBox="0 0 18 18"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="qbittorrent-tray.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <style
+       id="current-color-scheme-7"
+       type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <style
+       id="current-color-scheme-9"
+       type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <style
+       id="current-color-scheme-93"
+       type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <style
+       id="current-color-scheme-6"
+       type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <style
+       id="style7"
+       type="text/css">
+   .ColorScheme-Text { color:#3f3f3f; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <style
+       id="current-color-scheme-2"
+       type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <style
+       id="current-color-scheme-22"
+       type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <style
+       id="style7-7"
+       type="text/css">
+   .ColorScheme-Text { color:#3f3f3f; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <defs
+       id="defs990">
+      <style
+         id="style988"
+         type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs996">
+      <style
+         id="style994"
+         type="text/css">
+   .ColorScheme-Text { color:#3f3f3f; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs3-2">
+      <style
+         type="text/css"
+         id="style890">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs9">
+      <style
+         type="text/css"
+         id="style894">
+   .ColorScheme-Text { color:#3f3f3f; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs3-20">
+      <style
+         type="text/css"
+         id="style908">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs3-9">
+      <style
+         type="text/css"
+         id="style926">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs9-9">
+      <style
+         type="text/css"
+         id="style930">
+   .ColorScheme-Text { color:#3f3f3f; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs1012">
+      <style
+         id="style1010"
+         type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs1018">
+      <style
+         id="style1016"
+         type="text/css">
+   .ColorScheme-Text { color:#3f3f3f; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs1048">
+      <style
+         id="style1046"
+         type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs1034">
+      <style
+         id="style1032"
+         type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs1040">
+      <style
+         id="style1038"
+         type="text/css">
+   .ColorScheme-Text { color:#3f3f3f; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs3">
+      <style
+         type="text/css"
+         id="style969">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs976">
+      <style
+         id="style974"
+         type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs982">
+      <style
+         id="style980"
+         type="text/css">
+   .ColorScheme-Text { color:#3f3f3f; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <style
+       id="current-color-scheme-67"
+       type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <style
+       id="current-color-scheme-62"
+       type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <style
+       id="current-color-scheme-0"
+       type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <style
+       id="current-color-scheme-5"
+       type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <style
+       id="current-color-scheme-1"
+       type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <style
+       id="current-color-scheme-60"
+       type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    <defs
+       id="defs969">
+      <style
+         id="style967"
+         type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs3-27">
+      <style
+         type="text/css"
+         id="style953">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs3-3">
+      <style
+         type="text/css"
+         id="style905">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs3-5">
+      <style
+         type="text/css"
+         id="style929">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs979">
+      <style
+         id="style977"
+         type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs1087">
+      <style
+         type="text/css"
+         id="style1085">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs117">
+      <style
+         type="text/css"
+         id="style115">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs3-53">
+      <style
+         type="text/css"
+         id="style1341">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs1357">
+      <style
+         id="style1355"
+         type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs1369">
+      <style
+         id="style1367"
+         type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs1381">
+      <style
+         type="text/css"
+         id="style1379">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+    <defs
+       id="defs3-29">
+      <style
+         type="text/css"
+         id="style1404">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+    </defs>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="-7.0200093"
+     inkscape:cy="-0.0040570394"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid837" />
+  </sodipodi:namedview>
+  <g
+     id="qbittorrent">
+    <g
+       id="surface1"
+       transform="translate(-0.75,-4.25)" />
+    <g
+       transform="scale(0.81818182)"
+       id="22-22-touchpad_enabled">
+      <rect
+         style="fill:#eeeeee;fill-opacity:0;stroke:none;stroke-width:5.0040946;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect965"
+         width="22"
+         height="22"
+         x="0"
+         y="0" />
+    </g>
+    <path
+       id="rect950"
+       d="M 7,2 4,6 h 2 v 4 H 8 V 6 h 2 z m 3,0.078125 V 4.0996094 C 12.287361,4.5606036 14,6.5728315 14,9 c 0,0.7131801 -0.153118,1.387255 -0.419922,2 h 2.126953 C 15.894565,10.366247 16,9.6961668 16,9 16,5.462784 13.399358,2.5619413 10,2.078125 Z M 2.2929688,7 C 2.105435,7.6337529 2,8.3038332 2,9 c 0,3.537216 2.6006421,6.438059 6,6.921875 V 13.900391 C 5.7126387,13.439396 4,11.427168 4,9 4,8.2868199 4.153118,7.6127451 4.4199219,7 Z M 10,8 v 4 H 8 l 3,4 3,-4 H 12 V 8 Z"
+       style="fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
