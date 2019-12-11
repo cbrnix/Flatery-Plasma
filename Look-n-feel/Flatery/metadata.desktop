@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Dark theme with color scheme, wallpapers and icons
+Name=Flatery
+X-KDE-PluginInfo-Author=Cybernix (Plasma theme based on works of Alexey Varfolomeev - https://github.com/varlesh)
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=ghostdmn2@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=Flatery
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/cbrnix/Flatery
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1338947,kns://plasma-themes.knsrc/api.kde-look.org/1338946,kns://icons.knsrc/api.kde-look.org/1332404,kns://wallpaper.knsrc/api.kde-look.org/1338706,kns://aurorae.knsrc/api.kde-look.org/1342792
