@@ -75,7 +75,7 @@ ForegroundVisited=232,99,246
 
 [Colors:View]
 BackgroundAlternate=79,79,79
-BackgroundNormal=53,53,53
+BackgroundNormal=34,34,34
 DecorationFocus=179,157,219
 DecorationHover=179,157,219
 ForegroundActive=167,128,238
@@ -89,7 +89,7 @@ ForegroundVisited=232,99,246
 
 [Colors:Window]
 BackgroundAlternate=97,97,97
-BackgroundNormal=66,66,66
+BackgroundNormal=42,42,42
 DecorationFocus=179,157,219
 DecorationHover=179,157,219
 ForegroundActive=167,128,238
